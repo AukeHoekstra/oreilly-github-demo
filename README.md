@@ -3,7 +3,7 @@ My Lovely Project
 
 A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series. 
 
-And here is my added text and a link to [aukehoekstra.nl](http://www.aukehoekstra.nl)
+And here is my added text and a link to [aukehoekstra.nl](http://www.aukehoekstra.nl). And the extra link practice.
 
 ## Getting started
 
